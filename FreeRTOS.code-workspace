@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+studious-guide-q74rrqrx9xjrc656r/workspaces/FreeRTOS"
+		}
+	],
+	"remoteAuthority": "codespaces+studious-guide-q74rrqrx9xjrc656r",
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c"
+		}
+	}
+}
